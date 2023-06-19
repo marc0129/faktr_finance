@@ -1,0 +1,2 @@
+(this["webpackJsonpapp faktr finance frontend"]=this["webpackJsonpapp faktr finance frontend"]||[]).push([[19],{677:function(n,f){},683:function(n,f){},685:function(n,f){}}]);
+//# sourceMappingURL=19.6c32f257.chunk.js.map
